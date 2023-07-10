@@ -1,4 +1,4 @@
-# data-analysis-projects
+# Data Analysis Projects
 Some data analysis projects I've done in the past:
 - Airline Flight Delay Prediction and Analysis
 - Assessing Strategies for Increasing Health Checkup Participation
